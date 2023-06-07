@@ -273,7 +273,7 @@ Build instructions for Qt 6
 It is possible to build scantailor-advanced with Qt6. However, scantailor-libs-build does not include tools for this yet.
 The following instructions assume a precompiled version of Qt.
 
-Please note that Qt 6 doesn't support Windows <= 7.
+Please note that Qt 6 doesn't support Windows 7 or older.
 
 <h3 id="qt6-dependencies">Dependencies</h3>
 
