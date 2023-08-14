@@ -171,7 +171,7 @@ Supported toolchains for Windows are MinGW and MSVC.
 ### Linux
 #### <a name="linux-getting-dependencies"></a> Getting dependencies
 
-1. Download [CMake](#tools) and [dependencies](#dependencies) developing packages from the repositories.
+1. Download [CMake](#tools) and the [dependencies](#dependencies) from the repositories.
 
    Examples:  
    <details><summary><i>Debian/Ubuntu</i></summary>
@@ -189,6 +189,8 @@ Supported toolchains for Windows are MinGW and MSVC.
    ```
 
    </details>
+
+   If you are using another Linux distribution, refer to its documentation and the [dependencies](#dependencies) section to install the needed packages.
 
 #### <a name="linux-building-scantailor"></a> Building ScanTailor
 1. Navigate to the `scantailor-advanced-x.x.x` directory (`cd "<dir>"`) and enter:
