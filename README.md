@@ -177,7 +177,7 @@ Supported toolchains for Windows are MinGW and MSVC.
    <details><summary><i>Debian/Ubuntu</i></summary>
 
    ```
-   sudo apt install gcc g++ cmake libjpeg-dev libpng-dev libtiff5 libtiff5-dev libboost-test-dev qtbase5-dev libqt5svg5-dev qttools5-dev qttools5-dev-tools libqt5opengl5-dev libpthread-stubs0-dev
+   sudo apt install gcc g++ cmake libjpeg-dev libpng-dev libtiff6 libtiff5-dev libboost-test-dev qtbase5-dev libqt5svg5-dev qttools5-dev qttools5-dev-tools libqt5opengl5-dev libpthread-stubs0-dev
    ```
 
    </details>
